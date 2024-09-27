@@ -1,3 +1,5 @@
 esse é meu primeiro codigo no github
 
 linha editada em outro computador
+
+ajeitei a cagada do emerson
